@@ -1,0 +1,36 @@
+.nav__bar {
+  padding: .75em 1em;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-pack: center;
+  width: 100%;
+  position: relative;
+  background-color: white;
+  margin: -8px;
+}
+
+body {
+  background-color: black;
+}
+
+.flipgrid__logo {
+  position: absolute;
+  right: 16px;
+  height: 55px;
+}
+
+.user__name {
+  font-family: geomanist-regular,Helvetica,sans-serif;
+}
+
+.microsoft__avatar {
+  border-radius: 50%;
+  width: 40px;
+  float: left;
+}
+
+.video__date {
+  font-family: geomanist-regular,Helvetica,sans-serif;  
+}
